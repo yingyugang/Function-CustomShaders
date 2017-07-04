@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 0166d3c0de4934a60a95e77e2697affe
+timeCreated: 1457441428
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: horse_head
+    100004: horse_L_foreLeg_01
+    100006: horse_L_foreLeg_02
+    100008: horse_L_foreLeg_03
+    100010: horse_L_leg_01
+    100012: horse_L_leg_02
+    100014: horse_L_leg_03
+    100016: horse_L_leg_04
+    100018: horse_L_shoulder
+    100020: horse_neck_01
+    100022: horse_pelvis
+    100024: horse_R_foreLeg_01
+    100026: horse_R_foreLeg_02
+    100028: horse_R_foreLeg_03
+    100030: horse_R_leg_01
+    100032: horse_R_leg_02
+    100034: horse_R_leg_03
+    100036: horse_R_leg_04
+    100038: horse_R_shoulder
+    100040: horse_root
+    100042: horse_spine_01
+    100044: horse_spine_02
+    100046: horse_spine_03
+    100048: horse_tail01
+    100050: horse_tail02
+    100052: horse_tail03
+    100054: knight_cape
+    100056: knight_head
+    100058: knight_L_arm_01
+    100060: knight_L_arm_02
+    100062: knight_L_arm_03
+    100064: knight_L_chestFlap_01
+    100066: knight_L_chestFlap_02
+    100068: knight_L_chestFlap_03
+    100070: knight_L_finger_01
+    100072: knight_L_finger_02
+    100074: knight_L_shoulder
+    100076: knight_L_skirt
+    100078: knight_neck
+    100080: knight_R_arm_01
+    100082: knight_R_arm_02
+    100084: knight_R_arm_03
+    100086: knight_R_chestFlap_01
+    100088: knight_R_chestFlap_02
+    100090: knight_R_chestFlap_03
+    100092: knight_R_finger_01
+    100094: knight_R_finger_02
+    100096: knight_R_shoulder
+    100098: knight_R_skirt
+    100100: knight_root_grp
+    100102: knight_spine_01
+    100104: knight_spine_02
+    100106: knight_spine_03
+    100108: kod_rig_10:export_grp
+    100110: kod_rig_10:knight_root
+    100112: kod_rig_10:Knights_of_Disaster_horse
+    100114: kod_rig_10:Knights_of_Disaster_jack
+    100116: kod_rig_10:mesh_grp
+    100118: kod_rig_10:weapon
+    100120: weapon_01
+    100122: weapon_02
+    100124: weapon_03
+    100126: weapon_04
+    100128: weapon_05
+    100130: weapon_06
+    100132: weapon_root
+    100134: weapon_root_grp
+    400000: //RootNode
+    400002: horse_head
+    400004: horse_L_foreLeg_01
+    400006: horse_L_foreLeg_02
+    400008: horse_L_foreLeg_03
+    400010: horse_L_leg_01
+    400012: horse_L_leg_02
+    400014: horse_L_leg_03
+    400016: horse_L_leg_04
+    400018: horse_L_shoulder
+    400020: horse_neck_01
+    400022: horse_pelvis
+    400024: horse_R_foreLeg_01
+    400026: horse_R_foreLeg_02
+    400028: horse_R_foreLeg_03
+    400030: horse_R_leg_01
+    400032: horse_R_leg_02
+    400034: horse_R_leg_03
+    400036: horse_R_leg_04
+    400038: horse_R_shoulder
+    400040: horse_root
+    400042: horse_spine_01
+    400044: horse_spine_02
+    400046: horse_spine_03
+    400048: horse_tail01
+    400050: horse_tail02
+    400052: horse_tail03
+    400054: knight_cape
+    400056: knight_head
+    400058: knight_L_arm_01
+    400060: knight_L_arm_02
+    400062: knight_L_arm_03
+    400064: knight_L_chestFlap_01
+    400066: knight_L_chestFlap_02
+    400068: knight_L_chestFlap_03
+    400070: knight_L_finger_01
+    400072: knight_L_finger_02
+    400074: knight_L_shoulder
+    400076: knight_L_skirt
+    400078: knight_neck
+    400080: knight_R_arm_01
+    400082: knight_R_arm_02
+    400084: knight_R_arm_03
+    400086: knight_R_chestFlap_01
+    400088: knight_R_chestFlap_02
+    400090: knight_R_chestFlap_03
+    400092: knight_R_finger_01
+    400094: knight_R_finger_02
+    400096: knight_R_shoulder
+    400098: knight_R_skirt
+    400100: knight_root_grp
+    400102: knight_spine_01
+    400104: knight_spine_02
+    400106: knight_spine_03
+    400108: kod_rig_10:export_grp
+    400110: kod_rig_10:knight_root
+    400112: kod_rig_10:Knights_of_Disaster_horse
+    400114: kod_rig_10:Knights_of_Disaster_jack
+    400116: kod_rig_10:mesh_grp
+    400118: kod_rig_10:weapon
+    400120: weapon_01
+    400122: weapon_02
+    400124: weapon_03
+    400126: weapon_04
+    400128: weapon_05
+    400130: weapon_06
+    400132: weapon_root
+    400134: weapon_root_grp
+    4300000: kod_rig_10:Knights_of_Disaster_jack
+    4300002: kod_rig_10:weapon
+    4300004: kod_rig_10:Knights_of_Disaster_horse
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: kod_rig_10:Knights_of_Disaster_horse
+    13700002: kod_rig_10:Knights_of_Disaster_jack
+    13700004: kod_rig_10:weapon
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
