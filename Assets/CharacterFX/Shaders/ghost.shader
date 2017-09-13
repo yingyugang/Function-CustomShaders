@@ -9,7 +9,6 @@
     SubShader {
       Tags { "RenderType" = "Transparent" "Queue"="Transparent" "IgnoreProjector"="True"}
       
-    // extra pass that renders to depth buffer only
      Pass {
         ZWrite On
         ColorMask 0
@@ -29,8 +28,8 @@
       float _Brightness;
 
       void surf (Input IN, inout SurfaceOutput o) {
-      	half4 basecol = tex2D (_MainTex, IN.uv_MainTex);
-     		half3 graycol = dot(basecol.rgb,float3(0.3,0.59,0.11));
+          half4 basecol = tex2D (_MainTex, IN.uv_MainTex);
+     	  half3 graycol = dot(basecol.rgb,float3(0.3,0.59,0.11));
           o.Albedo = graycol;
           o.Normal = UnpackNormal (tex2D (_BumpMap, IN.uv_BumpMap));
           half rim = 1.0 - saturate(dot (normalize(IN.viewDir), o.Normal));

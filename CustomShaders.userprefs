@@ -1,8 +1,18 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CharacterFX/Shaders/ghost.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShanXian.cs">
     <Files>
-      <File FileName="Assets/CharacterFX/Shaders/ghost.shader" Line="1" Column="1" />
+      <File FileName="Assets/CharacterFX/Shaders/ghost.shader" Line="12" Column="1" />
+      <File FileName="Assets/CharacterFX/Shaders/CustomGhost.shader" Line="41" Column="22" />
+      <File FileName="Assets/Scripts/TestVertexColor.cs" Line="1" Column="1" />
+      <File FileName="Assets/DissolveShader/Shader/Dissolve_TexturCoords1.shader" Line="1" Column="1" />
+      <File FileName="Assets/DissolveShader/Shader/Dissolve_WorldCoords.shader" Line="1" Column="1" />
+      <File FileName="Assets/CustomShaders/Dissolve/Dissolve_Texture.shader" Line="98" Column="46" />
+      <File FileName="Assets/DissolveShader/Shader/Dissolve_TexturCoords.shader" Line="16" Column="8" />
+      <File FileName="Assets/Scripts/Test01.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TestAnim.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TestAnimator.cs" Line="29" Column="24" />
+      <File FileName="Assets/Scripts/ShanXian.cs" Line="28" Column="16" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
