@@ -67,6 +67,7 @@
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\Lightmap-Glossy.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\Lightmap-BumpSpec.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResources\Internal-GUITextureBlit.shader" />
+     <None Include="Assets\Shader\Hero-Characters.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\Sprites-Diffuse.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\Nature\TreeCreator\TreeCreatorLeavesFastOptimized.shader" />
      <None Include="Assets\CustomShaders\Dissolve\disintegrate_nmp.shader" />
@@ -84,6 +85,7 @@
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\Mobile\Mobile-Particle-Alpha.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\Normal-Parallax.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\Decal.shader" />
+     <None Include="Assets\Shader\DistortionParticlesPosition.shader" />
      <None Include="Assets\CustomShaders\Gray\Gray.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\TerrainShaders\Splats\Standard-Base.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\Particle Add.shader" />
@@ -94,6 +96,7 @@
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResources\Internal-Flare.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\Mobile\Mobile-VertexLit-OnlyDirectionalLights.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\CGIncludes\UnityStandardCore.cginc" />
+     <None Include="Assets\Shader\Realistic Snow.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\CGIncludes\UnityStandardConfig.cginc" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\TerrainShaders\Details\VertexLit.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\Reflect-Parallax.shader" />
@@ -187,6 +190,7 @@
      <None Include="Assets\DissolveShader\Shader\Dissolve_TexturCoords.shader" />
      <None Include="Assets\CustomShaders\Shaders\UI-Default-Position.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\CGIncludes\UnityStandardUtils.cginc" />
+     <None Include="Assets\Shader\Hero-CharactersTemp.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\AlphaTest-Diffuse.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResources\Internal-PrePassCollectShadows.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\Standard.shader" />
@@ -281,6 +285,7 @@
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\Alpha-VertexLit.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResources\Internal-SplashShadowReceiver.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResources\Internal-CombineDepthNormals.shader" />
+     <None Include="Assets\Shader\Hero-CharactersTemp2.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\AlphaTest-Bumped.shader" />
      <None Include="Assets\CharacterFX\Shaders\ghost.shader" />
      <None Include="Assets\builtin_shaders-5.2.2f1\DefaultResourcesExtra\Alpha-Parallax.shader" />

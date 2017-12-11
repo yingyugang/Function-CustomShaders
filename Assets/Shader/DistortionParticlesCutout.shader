@@ -88,7 +88,7 @@ v2f vert (appdata_t v)
 	o.uvbump = TRANSFORM_TEX( v.texcoord, _BumpMap );
 	o.uvmain = TRANSFORM_TEX( v.texcoord, _MainTex );
 	o.uvcutout = TRANSFORM_TEX( v.texcoord, _CutOut );
-	
+
 	return o;
 }
 
