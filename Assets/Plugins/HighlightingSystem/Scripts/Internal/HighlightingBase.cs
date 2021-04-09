@@ -458,7 +458,7 @@ namespace HighlightingSystem
 			shaderCamera.rect = new Rect(0f, 0f, 1f, 1f);
 			shaderCamera.renderingPath = RenderingPath.Forward;
 			shaderCamera.depthTextureMode = DepthTextureMode.None;
-			shaderCamera.hdr = false;
+			shaderCamera.allowHDR = false;
 			shaderCamera.useOcclusionCulling = false;
 			shaderCamera.backgroundColor = new Color(0, 0, 0, 0);
 			shaderCamera.clearFlags = CameraClearFlags.Nothing;
